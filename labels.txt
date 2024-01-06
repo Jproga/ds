@@ -1,0 +1,6 @@
+0 berda
+1 kalash
+2 python
+3 pzrk
+4 rocket
+5 revik
