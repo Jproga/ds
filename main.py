@@ -7,7 +7,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-TOKEN = 'MTEzMjY4Mjc2NTY1NDAzMjM4NA.GZK4XM.i6zKeFVSy07zsNOpZVElMyQHL2XlJYcOqhpxr8'
+TOKEN = 'здесь токен'
 
 # команды
 @bot.command()
